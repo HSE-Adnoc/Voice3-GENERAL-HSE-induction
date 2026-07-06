@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Voice3 _ GENERAL HSE induction" />
+              <option name="title_text" value="GENERAL HSE induction policy HSE (scene) v3" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1601,11 +1601,6 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.62NlwPefZJM" displaytext="Objectives" expand="true" type="slide" translationId="5vfu7pmMo9K">
-          <links>
-            <slidelink slideid="_player.62NlwPefZJM.6InBb9V29vG" displaytext="Objectives" expand="false" type="slide" translationId="5nE5jsSmQmg" />
-          </links>
-        </slidelink>
         <slidelink slideid="_player.6c71l8njhuo" displaytext="What is HSE?" expand="true" type="slide" translationId="6O8ksZtTAbQ">
           <links>
             <slidelink slideid="_player.6c71l8njhuo.6P2m6IdIeVQ" displaytext="What is HSE?" expand="false" type="slide" translationId="5YxRQML9U10" />
