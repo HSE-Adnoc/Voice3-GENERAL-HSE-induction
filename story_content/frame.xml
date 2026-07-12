@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="GENERAL HSE induction policy HSE (scene) v3" />
+              <option name="title_text" value="GENERAL HSE induction policy" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1601,9 +1601,115 @@
   <nav_data>
     <outline>
       <links>
+        <slidelink slideid="_player.62NlwPefZJM" displaytext="Objectives" expand="true" type="slide" translationId="5vfu7pmMo9K">
+          <links>
+            <slidelink slideid="_player.62NlwPefZJM.6InBb9V29vG" displaytext="Objectives" expand="false" type="slide" translationId="5nE5jsSmQmg" />
+          </links>
+        </slidelink>
         <slidelink slideid="_player.6c71l8njhuo" displaytext="What is HSE?" expand="true" type="slide" translationId="6O8ksZtTAbQ">
           <links>
             <slidelink slideid="_player.6c71l8njhuo.6P2m6IdIeVQ" displaytext="What is HSE?" expand="false" type="slide" translationId="5YxRQML9U10" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5r8w8emWp7H" displaytext="Waste Management" expand="true" type="slide" translationId="5fiKm93UvJz">
+          <links>
+            <slidelink slideid="_player.5r8w8emWp7H.5sPRsxLGu6Q" displaytext="Waste Management" expand="false" type="slide" translationId="65BNROxAXPC" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5v1P0QWnZcH" displaytext="Adnoc Group HSE Policy" expand="true" type="slide" translationId="5vmkfmia9fq">
+          <links>
+            <slidelink slideid="_player.5v1P0QWnZcH.6drUzxPZYot" displaytext="Adnoc Group HSE Policy" expand="false" type="slide" translationId="6edl2MJmIcz" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6d4apiBHY4h" displaytext="THE PURPOSE OF THE TRAINING" expand="true" type="slide" translationId="6J6zZPDeK5C">
+          <links>
+            <slidelink slideid="_player.6d4apiBHY4h.6XyVn3WVEAi" displaytext="THE PURPOSE OF THE TRAINING" expand="false" type="slide" translationId="5rwHfYXAbWi" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5mJXXTG0WS2" displaytext="Introduction" expand="true" type="slide" translationId="5bZGcoVUzxi">
+          <links>
+            <slidelink slideid="_player.5mJXXTG0WS2.5eE3LvBinoa" displaytext="Introduction" expand="false" type="slide" translationId="6jiR8Q9E9Gk" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5ifjZooWBXm" displaytext="Evacuation Procedure: Scenario" expand="true" type="slide" translationId="6dDrpSoGTN1">
+          <links>
+            <slidelink slideid="_player.5ifjZooWBXm.6LHo5dFY3cT" displaytext="Evacuation Procedure: Scenario" expand="false" type="slide" translationId="5mCMkZh9HNh" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6A1rHmchVwi" displaytext="Fire Emergency: Scenario" expand="true" type="slide" translationId="6cxA0oQiBBN">
+          <links>
+            <slidelink slideid="_player.6A1rHmchVwi.6Py4o5UJfdw" displaytext="Fire Emergency: Scenario" expand="false" type="slide" translationId="6BI8d9XVrK0" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5eW1huhvgXK" displaytext="Fire Emergency Guidelines" expand="true" type="slide" translationId="6bf1UscaquZ">
+          <links>
+            <slidelink slideid="_player.5eW1huhvgXK.5abTadFDmME" displaytext="Fire Emergency Guidelines" expand="false" type="slide" translationId="6DrAK7QjCl6" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5sHjAt2jpBh" displaytext="During a Storm: Scenario" expand="true" type="slide" translationId="5kQOhGcKYgS">
+          <links>
+            <slidelink slideid="_player.5sHjAt2jpBh.6F3AViBqS67" displaytext="During a Storm: Scenario" expand="false" type="slide" translationId="5wuw4s1vClR" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5pEVOzjdo9H" displaytext="During an Earthquake" expand="true" type="slide" translationId="5fzmBnAZ5ll">
+          <links>
+            <slidelink slideid="_player.5pEVOzjdo9H.5UzNbFj1NWr" displaytext="During an Earthquake" expand="false" type="slide" translationId="6myvrMAx9hb" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5ecOfBGZ7Ct" displaytext="Emergency Contact Numbers" expand="true" type="slide" translationId="6eQHwzRYsOC">
+          <links>
+            <slidelink slideid="_player.5ecOfBGZ7Ct.6WHmV79K7OJ" displaytext="Emergency Contact Numbers" expand="false" type="slide" translationId="6e0Tng7KQHs" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5ujStBs4dCg" displaytext="Car Park Rules" expand="true" type="slide" translationId="6Js8I2azhw0">
+          <links>
+            <slidelink slideid="_player.5ujStBs4dCg.6UY56Or0taW" displaytext="Car Park Rules" expand="false" type="slide" translationId="5zQn6S9ecF4" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5nDrtxq8sqt" displaytext="Knowledge Check - 1" expand="true" type="slide" translationId="6MS3std2xRL">
+          <links>
+            <slidelink slideid="_player.5nDrtxq8sqt.64G3DlOJ43m" displaytext="WHAT MUST BE THE SPEED LIMIT IN THE CAR PARK?&#xD;(Choose the correct answer)" expand="false" type="slide" translationId="5aIcZdJw79b" />
+            <slidelink slideid="_player.5nDrtxq8sqt.5YwcHgMUU4m" displaytext="ADNOC IMPLEMENTS A REVERSE PARKING SYSTEM TO REDUCE ACCIDENTS AND IMPROVE THE VISIBILITY WHEN LEAVING THE PARKING SPACE.&#xA;(Choose the correct answer)" expand="false" type="slide" translationId="5jG7V0NJVRg" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.65tw4ijlCp6" displaytext="Life-Saving Rules" expand="true" type="slide" translationId="5Zh5CErtSKm">
+          <links>
+            <slidelink slideid="_player.65tw4ijlCp6.6mlgMGei1Rt" displaytext="Life-Saving Rules" expand="false" type="slide" translationId="6J8N75tMjDE" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5xDqwNYVtSz" displaytext="Slip, trip and fall" expand="true" type="slide" translationId="5hgyUX85s3H">
+          <links>
+            <slidelink slideid="_player.5xDqwNYVtSz.6k1Zps7VOh2" displaytext="Slip, trip and fall" expand="false" type="slide" translationId="5Vv3Qrs2JHR" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5Zj0fN6Mkwe" displaytext="Preventing Slip, Trip and Fall" expand="true" type="slide" translationId="68SUx0HkGq3">
+          <links>
+            <slidelink slideid="_player.5Zj0fN6Mkwe.6I4mej3ce2Y" displaytext="Preventing Slip, Trip and Fall" expand="false" type="slide" translationId="6OiO3n6mDpO" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.65qsHT5nsuw" displaytext="Good House-keeping" expand="true" type="slide" translationId="6pX03WmLByM">
+          <links>
+            <slidelink slideid="_player.65qsHT5nsuw.6dNQVmAlg1W" displaytext="Good House-keeping" expand="false" type="slide" translationId="6FZheitu0KL" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6GXYwOIVwn4" displaytext="Workplace advice" expand="true" type="slide" translationId="62GUkbpFe4e">
+          <links>
+            <slidelink slideid="_player.6GXYwOIVwn4.6nTvYptkhw8" displaytext="Workplace advice" expand="false" type="slide" translationId="68fHlbUpxtx" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6HUNu55sKDA" displaytext="Good House-keeping" expand="true" type="slide" translationId="6YnBj3XocsE">
+          <links>
+            <slidelink slideid="_player.6HUNu55sKDA.6nR7rouFyRj" displaytext="Good House-keeping" expand="false" type="slide" translationId="60snjyI3XEt" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6A0Ckm92Z4w" displaytext="Incident Management" expand="true" type="slide" translationId="5ur4mRuVvN1">
+          <links>
+            <slidelink slideid="_player.6A0Ckm92Z4w.6mCwiMUhWSp" displaytext="Incident Management" expand="false" type="slide" translationId="5aSucaL0AU4" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6LCAYsoCUYM" displaytext="Thank You" expand="true" type="slide" translationId="5kzJmheDpno">
+          <links>
+            <slidelink slideid="_player.6LCAYsoCUYM.5k9SXY8Fx0U" displaytext="Thank You" expand="false" type="slide" translationId="5wPq3PWts2y" />
           </links>
         </slidelink>
       </links>
