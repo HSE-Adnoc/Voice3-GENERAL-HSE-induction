@@ -91,9 +91,9 @@
         <options>
           <option name="thumbnailEnabled" value="true" />
           <option name="thumbnailFillFrame" value="true" />
-          <option name="thumbnailAltText" value="0_bg.jpg" />
-          <option name="thumbnailDisplayName" value="0_bg.jpg" />
-          <option name="thumbnailUrl" value="story_content/6LRHwJJM2Ar.jpg" />
+          <option name="thumbnailAltText" value="slide.png" />
+          <option name="thumbnailDisplayName" value="slide.png" />
+          <option name="thumbnailUrl" value="story_content/5ZETHttQWSB.png" />
           <option name="thumbnailAltTextEnabled" value="false" />
         </options>
       </optiongroup>
